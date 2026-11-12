@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jing Yang!
+- 🌱 I’m currently a PhD student at the University of Surrey.
+- 🤖 I’m interested in how robots can learn new skills through Reinforcement Learning.
